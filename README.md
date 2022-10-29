@@ -57,7 +57,17 @@ Among the skills that I possess are the following:
 
 ## :pushpin: Experience
 
-- ## **[2018 - 2021] Laravel Back-End Developer**
+- ## **[2021 - present] NTT DATA — Engineer Front-End Angular Developer**
+
+  After 3 years as a back-end developer, I started feeling more interested about **front-end** techonolgies and I can relate that to me being a very visual person. After resigning my first job, I decided to study **Angular**. I took more than 2 months of preparation, took 2 courses and once I felt prepared enough I was contacted by the NTT DATA company to apply to an open role as a **Angular** developer. This time though, I got assigned to a project with an international client and I am making use of my second language: English. So far, I have grown as a developer big time. I have got to **interact with the client in English**, talk to people with different English accents, I have written **CSS** and **SCSS** to create beautiful user interfaces, and I am much more involved than before as I have made recommendations and contributed a lot. Not to mention how much my English has improved.
+
+  Other important things I have done are welcoming new co-workers to the project and walk them through the project so they get as much context of what it is about and what they will be doing. I have learned through time that, the key to making new project mates feel more confident about joining in is having a well orginised project. And that can be achieved by having well-done documentation and having all types of resources easily accessible through something like **Jira**.
+
+  **Jira** is a project management tool that I got to know about in this company. I am currently learning about it to understand how much we can do through using it, but I have already made use of it a lot to keep track on the project tasks, bugs, documentation and so on.
+
+  **Documentation** is something I have worked on too, not only to provide it to the client but also to co-workers that join the project.
+
+- ## **[2018 - 2021] Back-End Laravel Developer**
 
   This was my **first and formal job**. I was hired by an IT company of my home town as a **Laravel** back-end developer. However, I was also in charge of the front-end duties but I was provided with templates so I did not have to worry much about CSS, just about some minor adjustments. **Laravel** includes options to create some HTML pages that are already prebuilt so you can skip a lot of work creating the Login, Registration, Forgot Password, and so on, pages and the back-end logic behind.
 
