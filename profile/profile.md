@@ -1,0 +1,9 @@
+I started with the fundamentals of web programming at the age of 20, learning basic stuff about **HTML5**, **CSS3**, **JavaScript**, **PHP** and **J2EE** (i.e. **JSP**, **JSF**), moving on into more intricate stuff like **_object-oriented_** programming, **design patterns** and its implementation in real projects. I know very well how to make use of these design patterns (e.g. **singleton pattern**, **repository pattern**, **decorator pattern**, **view presenters**, **observer**, etc.) to get the best of them and make faster and more efficient web applications.
+
+I got my first job at the age of 21 going on 22, starting as an intern in an IT company in my home town. Once I felt in the need of moving on into the programming world, I prepared myself studying **Angular**, given that I was so keen on leaving the **back-end** world behind and making my debut in **front-end** technologies. Furthermore, I have collected several diplomas awarded after finishing multiple courses in **Angular**, **Pentesting**, **English**, **Laravel**, etc.
+
+I am able to speak fluent **English**, and got myself a **C1 _CEFR_** certificate. **Spanish** is my mother tongue, and for a while I took German lessons :pencil2: and was able to reach the A2 level, but gave up on it temporarily because I was so busy finishing my college studies and was more into taking programming courses and growing as a developer even more.
+
+I enjoy sports :runner:, despite not doing them. Yet, I do jump the rope ocassionally and volleyball and artistic gymnastics are my absolute favorite sports.
+
+I deem programming my real passion :star::star::star:. I like the fact that I am always exercising my brain. I enjoy how mentally challenging it can be. Developing new skills is a great part of being a **developer** and something that keeps me motivated every day.
