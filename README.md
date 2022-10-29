@@ -54,3 +54,13 @@ Among the skills that I possess are the following:
 
 - [x] Spanish (native)
 - [x] English (advanced — C1 CEFR)
+
+## :pushpin: Experience
+
+- ## **[2018 - 2021] Laravel Back-End Developer**
+
+  This was my **first and formal job**. I was hired by an IT company of my home town as a **Laravel** back-end developer. However, I was also in charge of the front-end duties but I was provided with templates so I did not have to worry much about CSS, just about some minor adjustments. **Laravel** includes options to create some HTML pages that are already prebuilt so you can skip a lot of work creating the Login, Registration, Forgot Password, and so on, pages and the back-end logic behind.
+
+  I had to take care of designing the **database** and **attended a few meetings with potential clients**. What I think this job gave me the most is, I gained a lot of understandment of what happens under the hood when interacting with a graphic user interface and think of ways of comunicating with the front-end. This level of understandment shows in my current job as a front-end developer because I can understand how the endpoints are built and what could possible be happening on the server when getting an error. I could say too that, I now know much better how to understand the requirements of the client and bring them to reality through code.
+
+  I was also able to work on some **documentation** along the way, and got to discover that is something I genuinely enjoy doing.
